@@ -5,3 +5,8 @@ Estan anexado dentro del paquete Testing los archivos Run.java (que analiza un d
 La red procesa datos de forma rapida y los hidden layers parecen affectar gravemente la estabilidad del aprendizaje en las primeras pruebas, pero llegando a resultados similares a largo plazo.
 Al cambiar los ratios de aprendizaje (learning rates) se ve que la red neuronal se comporta mejor con rates mas elevados (entre 0.1 y 0.4) que con rates menores.
 Las neuronas que cambian mas durante la fase de aprendizaje parecen ser las neuronas de output layer.
+
+
+David Rojas
+18925216-1
+https://github.com/DavidDango/NeuralNetwork01
