@@ -1,7 +1,0 @@
-Neural Network: Tarea 1
-
-El codigo del analisis de mi red neuronal utiliza jfreechart para graficar los errores vs epochs y los good guesses vs los epoch.
-Estan anexado dentro del paquete Testing los archivos Run.java (que analiza un dataset de solar flares con direcciona especificar) y el archivo NetworkTesting.java que contiene un junit test que prueba diferentes funcionalidades de mi modelo de red neuronal.
-La red procesa datos de forma rapida y los hidden layers parecen affectar gravemente la estabilidad del aprendizaje en las primeras pruebas, pero llegando a resultados similares a largo plazo.
-Al cambiar los ratios de aprendizaje (learning rates) se ve que la red neuronal se comporta mejor con rates mas elevados (entre 0.1 y 0.4) que con rates menores.
-Las neuronas que cambian mas durante la fase de aprendizaje parecen ser las neuronas de output layer.
